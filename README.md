@@ -11,7 +11,7 @@
 
 
 <h3 align="center" style="font-weight:700; font-style: italic; color:#8e8e8e; letter-spacing: 0.1em; margin-top: -0.6rem;">
-  <a href="https://github.com/numbkishor" target="_blank" rel="noopener" style="color:#FF61FF; text-decoration:none;">
+  <a href="https://github.com/numbkishor" target="_blank" rel="noopener" style="color:#60d8c4; text-decoration:none;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=7000&pause=1000&color=FF61FF&center=true&vCenter=true&width=650&lines=A+curious+Computer+Science+student;Exploring+the+world+of+code+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </h3>
