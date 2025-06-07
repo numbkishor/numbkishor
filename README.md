@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="120" alt="wave-hand" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hzN3lsc2VxMHZmbHlkdjZ5ZHR3MHBnNWdtb2o4dHNwNW5kdTA1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XDAY1NNG2VvobAp9o0/giphy.gif" width="120" alt="wave-hand" />
 </p>
 
 <h1 align="center" style="font-weight:900; font-size:3rem; letter-spacing:0.12em;">
