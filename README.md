@@ -22,7 +22,7 @@
 
 ---
 
-### 💼 Projects & Repositories
+### 💼 Projects & Repositories  
 Check out my work here:  
 ➡️ [github.com/numbkishor?tab=repositories](https://github.com/numbkishor?tab=repositories)
 
@@ -49,4 +49,3 @@ Check out my work here:
 ---
 
 *Made with ❤️ by Kishor*
-
