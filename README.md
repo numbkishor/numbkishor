@@ -1,131 +1,141 @@
-<!-- Neon Glow GitHub README -->
-<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap" rel="stylesheet" />
+<!-- Neon Futuristic README for Kishor (numbkishor) -->
 
-<div style="
-  background: linear-gradient(270deg, #00B3FF, #FFC300, #00DFD8, #FF6F61);
-  background-size: 800% 800%;
-  animation: neon-gradient 15s ease infinite;
-  padding: 40px 20px;
-  border-radius: 20px;
-  max-width: 900px;
-  margin: auto;
-  box-shadow: 0 0 30px #00DFD8, 0 0 60px #FFC300;
-  font-family: 'Orbitron', sans-serif;
-  color: #00B3FF;
-  text-align: center;
-  user-select: none;
-">
+<div align="center">
 
-  <h1 style="
-    font-size: 3.5rem;
-    margin-bottom: 0.3em;
-    text-shadow: 0 0 15px #00B3FF, 0 0 30px #FFC300;
-  ">👋 Hi, I'm <span style="color: #FFC300;">Kishor</span></h1>
+<h1>
+  <span style="color:#00FFD1; text-shadow: 0 0 8px #00FFD1, 0 0 20px #00FFD1;">
+    Hi there 👋, I'm <span style="color:#FF00C8;">Kishor</span>
+  </span>
+</h1>
 
-  <p style="
-    font-size: 1.3rem;
-    margin-bottom: 1.5em;
-    text-shadow: 0 0 10px #00DFD8;
-    letter-spacing: 1.2px;
-  ">
-    Welcome to my neon-lit corner of GitHub — C++ coder, gamer, and visual storyteller.
-  </p>
+<h3 style="color:#39FF14; text-shadow: 0 0 6px #39FF14;">
+  A curious Computer Science student exploring the world of code
+</h3>
 
-  <!-- Social Links -->
-  <div style="display: flex; justify-content: center; gap: 25px; margin-bottom: 50px;">
+<p>
+  <img src="https://komarev.com/ghpvc/?username=numbkishor&label=Profile%20views&color=39FF14&style=flat-square" alt="Profile views" />
+</p>
 
-    <a href="https://codeforces.com/profile/numbkishor" target="_blank" rel="noopener noreferrer"
-       style="
-         display: inline-block;
-         filter: drop-shadow(0 0 8px #1F8FFF);
-         transition: transform 0.3s ease, filter 0.3s ease;
-         border-radius: 50%;
-         background: #1F8FFF;
-         padding: 10px;
-       "
-       onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 15px #FFC300)';"
-       onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 8px #1F8FFF)';"
-    >
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="Codeforces" width="36" />
-    </a>
-
-    <a href="https://leetcode.com/numbkishor/" target="_blank" rel="noopener noreferrer"
-       style="
-         display: inline-block;
-         filter: drop-shadow(0 0 8px #FFA116);
-         transition: transform 0.3s ease, filter 0.3s ease;
-         border-radius: 50%;
-         background: #FFA116;
-         padding: 10px;
-       "
-       onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 15px #FFC300)';"
-       onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 8px #FFA116)';"
-    >
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="LeetCode" width="36" />
-    </a>
-
-    <a href="https://www.youtube.com/@kishor_arbo" target="_blank" rel="noopener noreferrer"
-       style="
-         display: inline-block;
-         filter: drop-shadow(0 0 8px #FF0000);
-         transition: transform 0.3s ease, filter 0.3s ease;
-         border-radius: 50%;
-         background: #FF0000;
-         padding: 10px;
-       "
-       onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 15px #FFC300)';"
-       onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 8px #FF0000)';"
-    >
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="36" />
-    </a>
-
-    <a href="https://www.linkedin.com/in/kishorarbo/" target="_blank" rel="noopener noreferrer"
-       style="
-         display: inline-block;
-         filter: drop-shadow(0 0 8px #0A66C2);
-         transition: transform 0.3s ease, filter 0.3s ease;
-         border-radius: 50%;
-         background: #0A66C2;
-         padding: 10px;
-       "
-       onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 15px #FFC300)';"
-       onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 8px #0A66C2)';"
-    >
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" width="36" />
-    </a>
-
-  </div>
-
-  <!-- GitHub Stats -->
-  <div style="text-align:center; margin-bottom: 50px;">
-    <h2 style="
-      font-family: 'Orbitron', sans-serif;
-      font-weight: 700;
-      font-size: 2rem;
-      color: #FFC300;
-      text-shadow: 0 0 12px #FFC300;
-      margin-bottom: 30px;
-    ">📊 GitHub Stats</h2>
-
-    <img src="https://github-readme-stats.vercel.app/api?username=numbkishor&show_icons=true&count_private=true&hide=prs&theme=transparent&bg_color=000011&icon_color=00DFD8&title_color=FFC300&text_color=00B3FF&hide_border=true" alt="GitHub Stats" style="max-width: 100%; border-radius: 20px; box-shadow: 0 0 30px #00DFD8;" />
-
-    <div style="margin-top: 40px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=numbkishor&theme=dark&hide_border=true&stroke=FFC300&ring=00DFD8&fire=FFC300&currStreakNum=00B3FF&sideNums=FFC300" alt="GitHub Streak" style="max-width: 100%; border-radius: 20px; box-shadow: 0 0 30px #FFC300;" />
-    </div>
-  </div>
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=numbkishor.numbkishor&colors=39FF14,0f0f0f,00ff99" alt="Visitor Badge" />
+</p>
 
 </div>
 
-<!-- Animations -->
-<style>
-@keyframes neon-gradient {
-  0%{background-position:0% 50%;}
-  50%{background-position:100% 50%;}
-  100%{background-position:0% 50%;}
-}
+---
 
-@keyframes flicker {
-  0%, 100% { opacity: 1; filter: drop-shadow(0 0 6px #00DFD8); }
-  50% { opacity: 0.8; filter: drop-shadow(0 0 10px #00F0FF); }
-}
-</style>
+## 🌱 <span style="color:#FF00C8;">What I'm Learning</span>
+
+Mastering <span style="color:#00FFD1; font-weight:bold;">C++</span> to write fast, clean, and efficient code.
+
+---
+
+## 💻 <span style="color:#FF00C8;">Projects & Work</span>
+
+Explore all my open source projects:  
+[<span style="color:#00FFD1;">https://github.com/numbkishor?tab=repositories</span>](https://github.com/numbkishor?tab=repositories)
+
+---
+
+## 📫 <span style="color:#FF00C8;">How to Reach Me</span>
+
+Email: [<span style="color:#00FFD1;">contact.kishrcreates@gmail.com</span>](mailto:contact.kishrcreates@gmail.com)
+
+---
+
+## 🔗 <span style="color:#FF00C8;">Connect With Me</span>
+
+<p align="center">
+  <a href="https://facebook.com/install.io" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/kishhh__or" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" alt="Instagram" />
+  </a>
+  <a href="https://www.codechef.com/users/kishor_15" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/kishorarbo18" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" alt="HackerRank" />
+  </a>
+  <a href="https://codeforces.com/profile/kishor_18" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" alt="Codeforces" />
+  </a>
+  <a href="https://www.hackerearth.com/@sadghoul75" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" width="40" alt="HackerEarth" />
+  </a>
+</p>
+
+---
+
+## 🛠️ <span style="color:#FF00C8;">Languages & Tools</span>
+
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" style="margin: 0 10px;" />
+</p>
+
+---
+
+## 🚀 <span style="color:#FF00C8;">Skill Progress</span>
+
+<p>
+  <strong style="color:#00FFD1;">C++</strong><br />
+  <progress value="85" max="100" style="width: 100%; height: 15px; border-radius: 10px; box-shadow: 0 0 8px #00FFD1;"></progress>
+</p>
+
+<p>
+  <strong style="color:#00FFD1;">C</strong><br />
+  <progress value="75" max="100" style="width: 100%; height: 15px; border-radius: 10px; box-shadow: 0 0 8px #00FFD1;"></progress>
+</p>
+
+<p>
+  <strong style="color:#00FFD1;">Python</strong><br />
+  <progress value="70" max="100" style="width: 100%; height: 15px; border-radius: 10px; box-shadow: 0 0 8px #00FFD1;"></progress>
+</p>
+
+<p>
+  <strong style="color:#00FFD1;">Arduino</strong><br />
+  <progress value="65" max="100" style="width: 100%; height: 15px; border-radius: 10px; box-shadow: 0 0 8px #00FFD1;"></progress>
+</p>
+
+---
+
+## 📊 <span style="color:#FF00C8;">GitHub Stats & Activity</span>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=numbkishor&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=numbkishor&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=numbkishor&layout=compact&theme=dark&hide_border=true" width="50%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=numbkishor&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" style="max-width: 700px; width: 100%;" />
+</p>
+
+---
+
+## 🎖️ <span style="color:#FF00C8;">Coding Ranks & Achievements</span>
+
+<p align="center">
+  <img src="https://www.codechef.com/users/kishor_15?badge_type=large" alt="CodeChef Rank" style="margin: 0 10px;" />
+  <img src="https://www.hackerrank.com/badges/kishorarbo18" alt="HackerRank Badge" style="margin: 0 10px;" />
+</p>
+
+---
+
+> <div align="center" style="font-style: italic; font-size: 1.1rem; color: #39FF14; text-shadow: 0 0 6px #39FF14;">
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> </div>
+
+---
+
+<div align="center" style="margin-top: 40px; font-size: 0.9rem; color: #00FFD1;">
+  Crafted with ❤️ by Kishor &mdash; Reach me at <a href="mailto:contact.kishrcreates@gmail.com" style="color:#FF00C8;">contact.kishrcreates@gmail.com</a>
+</div>
