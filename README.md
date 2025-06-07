@@ -2,11 +2,17 @@
   <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="120" alt="wave-hand" />
 </p>
 
-<h1 align="center" style="font-weight:900; font-size:3rem; letter-spacing:0.12em; background: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%); -webkit-background-clip: text; color: transparent;">
+<h1 align="center" style="font-weight:900; font-size:3rem; letter-spacing:0.12em; color: #333;">
   Hey there, I'm 
-  <span style="background: linear-gradient(90deg, #FF61FF 0%, #FF0080 100%); -webkit-background-clip: text; color: transparent;">
-    Kishr
-  </span> 👋
+  <svg width="160" height="48" style="vertical-align: middle;">
+    <defs>
+      <linearGradient id="nameGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#FF61FF" />
+        <stop offset="100%" stop-color="#FF0080" />
+      </linearGradient>
+    </defs>
+    <text x="0" y="35" fill="url(#nameGradient)" font-weight="900" font-size="36" font-family="Arial, sans-serif">Kishor</text>
+  </svg> 👋
 </h1>
 
 <h3 align="center" style="font-weight:700; font-style: italic; color:#8e8e8e; letter-spacing: 0.1em; margin-top: -0.6rem;">
