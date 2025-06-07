@@ -3,8 +3,12 @@
 </p>
 
 <h1 align="center" style="font-weight:900; font-size:3rem; letter-spacing:0.12em;">
-  Hey there, I'm <img src="https://i.ibb.co/NydpkcL/Kishor-gradient.png" alt="Kishor" style="height:1.2em; vertical-align:middle;" /> 👋
+  Hey there, I'm 
+  <span style="background: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 900;">
+    Kishor
+  </span> 👋
 </h1>
+
 
 <h3 align="center" style="font-weight:700; font-style: italic; color:#8e8e8e; letter-spacing: 0.1em; margin-top: -0.6rem;">
   <a href="https://github.com/numbkishor" target="_blank" rel="noopener" style="color:#FF61FF; text-decoration:none;">
