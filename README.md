@@ -3,7 +3,10 @@
 </p>
 
 <h1 align="center" style="font-weight:900; font-size:3rem; letter-spacing:0.12em; background: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%); -webkit-background-clip: text; color: transparent;">
-  Hey there, I'm Kishor! 👋
+  Hey there, I'm 
+  <span style="background: linear-gradient(90deg, #FF61FF 0%, #FF0080 100%); -webkit-background-clip: text; color: transparent;">
+    Kishr
+  </span> 👋
 </h1>
 
 <h3 align="center" style="font-weight:700; font-style: italic; color:#8e8e8e; letter-spacing: 0.1em; margin-top: -0.6rem;">
