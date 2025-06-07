@@ -14,8 +14,9 @@
 </h3>
 
 <p align="center" style="margin-top:1rem;">
-  <img src="https://komarev.com/ghpvc/?username=numbkishor&label=Profile%20views&color=gradient&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=numbkishor&label=Profile%20views&color=ff61ff&style=flat-square" alt="Profile Views" />
 </p>
+
 
 ---
 
@@ -23,10 +24,10 @@
 
 <div align="center" style="max-width:600px; background: #1a1a2e; border-radius:20px; padding:1.5rem; box-shadow: 6px 6px 16px #0d0d1a, -6px -6px 16px #26264a;">
   
-  <ul style="list-style-type:none; font-size:1.2rem; color:#cddc39; padding-left:0;">
-    <li>• <b>C++</b> — Mastering algorithms and data structures</li>
-    <li>• <b>Python</b> — Scripting & automation</li>
-    <li>• <b>Arduino</b> — IoT and embedded systems</li>
+  <ul style="list-style-type:none; font-size:1.2rem; color:#d1e236; padding-left:0;">
+    <li> <b>C++</b> — Mastering algorithms and data structures</li>
+    <li> <b>Python</b> — Scripting & automation</li>
+    <li> <b>Arduino</b> — IoT and embedded systems</li>
   </ul>
   
 </div>
