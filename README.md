@@ -1,5 +1,5 @@
 <!--
-Ultimate Futuristic README for Kishor (numbkishor)
+  Ultimate Futuristic README for Kishor (numbkishor)
 -->
 
 <!-- Top Wave -->
@@ -11,29 +11,21 @@ Ultimate Futuristic README for Kishor (numbkishor)
   </svg>
 </div>
 
-<div align="center" style="background: linear-gradient(90deg, #007CF0, #00DFD8); padding: 30px; border-radius: 15px; color: white; box-shadow: 0 8px 30px rgba(0, 223, 216, 0.4); max-width: 900px; margin: auto;">
-
-  <h1 style="font-weight: 900; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin-bottom: 0;">
-    <span id="typed-intro"></span><span style="color:#FFC300;"> Kishor</span> 👋
+<div align="center" style="background: linear-gradient(90deg, #007CF0, #00DFD8); padding: 30px; border-radius: 15px; color: white; box-shadow: 0 8px 30px rgba(0, 223, 216, 0.4);">
+  <h1 style="font-weight: 900; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    Hi there 👋, I'm <span style="color:#FFC300;">Kishor</span>
   </h1>
-  <h3 style="font-weight: 500; margin-top: 5px;">
+  <h3 style="font-weight: 500;">
     A curious Computer Science student exploring the world of code
   </h3>
-
   <p>
     <img src="https://komarev.com/ghpvc/?username=numbkishor&label=Profile%20views&color=FFFFFF&style=flat-square" alt="Profile views" />
   </p>
-
-  <!-- Visitor badge -->
+  
+  <!-- Animated visitor badge -->
   <p>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=numbkishor.numbkishor" alt="visitor badge" />
   </p>
-
-  <!-- Dynamic Greeting -->
-  <p style="font-size: 1.2rem; font-style: italic; margin-top: 0;">
-    <span id="dynamic-greeting" style="color:#FFC300;"></span>
-  </p>
-
 </div>
 
 ---
@@ -135,45 +127,21 @@ Email: [contact.kishrcreates@gmail.com](mailto:contact.kishrcreates@gmail.com)
 
 ---
 
-> <div align="center" style="font-style: italic; color: #00DFD8;">
-> “Learning never exhausts the mind.” – Leonardo da Vinci
+> <div align="center" style="font-style: italic; font-size: 1.1rem; color: #888;">
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 > </div>
 
-<!-- Bottom Wave -->
-<div style="position: relative; width: 100%; overflow: hidden; line-height: 0; margin-top: 60px;">
-  <svg viewBox="0 0 500 150" preserveAspectRatio="none" 
-       style="height: 100px; width: 100%;">
-    <path d="M-0.00,49.98 C150.00,150.00 349.26,-49.98 500.00,49.98 L500.00,150.00 L-0.00,150.00 Z" 
-          style="stroke: none; fill: #00DFD8; transform: rotate(180deg); transform-origin: center;"></path>
-  </svg>
+---
+
+<div align="center" style="margin-top: 40px; font-size: 0.9rem; color: #666;">
+  Crafted with ❤️ by Kishor &mdash; Reach me at <a href="mailto:contact.kishrcreates@gmail.com">contact.kishrcreates@gmail.com</a>
 </div>
 
-<script>
-  // Typed.js style intro animation without external libs
-  const introText = "Hi, I'm ";
-  const name = "Kishor!";
-  const target = document.getElementById('typed-intro');
-  let i = 0, j = 0;
-
-  function typeWriter() {
-    if (i < introText.length) {
-      target.textContent += introText.charAt(i);
-      i++;
-      setTimeout(typeWriter, 150);
-    } else if (j < name.length) {
-      target.textContent += name.charAt(j);
-      j++;
-      setTimeout(typeWriter, 150);
-    }
-  }
-  typeWriter();
-
-  // Dynamic greeting based on time
-  function getGreeting() {
-    const hour = new Date().getHours();
-    if (hour < 12) return "Good Morning 🌞";
-    else if (hour < 18) return "Good Afternoon ☀️";
-    else return "Good Evening 🌙";
-  }
-  document.getElementById('dynamic-greeting').textContent = getGreeting();
-</script>
+<!-- Bottom Wave -->
+<div style="position: relative; width: 100%; overflow: hidden; line-height: 0; margin-top: 40px;">
+  <svg viewBox="0 0 500 150" preserveAspectRatio="none" 
+       style="height: 100px; width: 100%;">
+    <path d="M0.00,49.98 C150.00,150.00 349.26,-49.98 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" 
+          style="stroke: none; fill: #007CF0;"></path>
+  </svg>
+</div>
